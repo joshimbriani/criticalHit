@@ -1,0 +1,27 @@
+[
+    {"name": "Iron Man",
+    "rarity": "Limited Edition",
+    "experience": "v",
+    "set": "cwsop",
+    "number": 102,
+    "range": 6,
+    "points": 80,
+    "teamAbility": [],
+    "movementAbility": "wing",
+    "attackAbility": "fist",
+    "defenseAbility": "indomitable",
+    "damageAbility": "starburst",
+    "startingLinesAt": ["veteran", 1],
+    "movementStats": [6,6,5,5,4,4],
+    "attackStats": [11,10,10,10,10,11],
+    "defenseStats": [17,17,17,16,17,18],
+    "damageStats": [3,3,2,2,3,3],
+    "movementPowers": ["RS", "RS", "SS", "SS", "SS", "SS"],
+    "attackPowers": ["PS", "PS", "N", "N", "PS", "PS"],
+    "defensePowers": ["IV", "TG", "TG", "SP", "SP", "SP"],
+    "damagePowers": ["LD", "LD", "RC", "RC", "N", "N"],
+    "keywords": ["Armor", "Pro-Registration", "Scientist", "Stark Industries"],
+    "realName": ["Tony Stark"],
+    "spDefense": "Stand Down Steve, Steve... Please: STOP. Iron Man can use Energy Shield/Deflection and Toughness."
+    }
+]
